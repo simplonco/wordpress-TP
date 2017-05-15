@@ -1,11 +1,5 @@
 <center><h1>TP Introduction Wordpress</h1></center>
 
-# Installation
-
-installer mamp/lamp
-créer la bdd
-installer wordpress
-
 # Premières modifications à partir de l'interface
 
 1. Créer un menu principal
@@ -38,3 +32,4 @@ installer le page builder dispo sur le drive : le manipuler pour créer des page
 
 Ressources : 
 * [sur le site officiel](https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/)
+* [ressources très complète sur le wiki ubuntu (même pour les windows et autres!)](https://doc.ubuntu-fr.org/wordpress)
